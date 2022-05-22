@@ -7,4 +7,4 @@
 
 ### [Project 2: Personal Viewing Habits](https://github.com/malikabaymuradova/myviewinghabits)
 **Overview:**
-
+* Developed a data model using Python and SQL to better understand personal viewing habits by defining key indicators of my top-rated movies and quantifying their impact on my rating 
