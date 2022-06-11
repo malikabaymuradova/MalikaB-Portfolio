@@ -11,3 +11,4 @@
 
 ### [Project 3: IMDb API](https://github.com/malikabaymuradova/myviewinghabits)
 * Performed exploratory data analysis for popular TVSeries and TVMiniSeries by utilizing IMDb API to find what factors correlate with user rating for each show 
+### [Project 4: Sales Data]()
